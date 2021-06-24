@@ -6,4 +6,4 @@ Contributor: Tien-Thinh Le
 
 Reference: Tien-Thinh Le, Development of a Numerical Tool to Predict Axial Capacity of Composite CFST Columns considering Different Cross-sectional Shapes, 2020
 
-Email: tienthinhle.vn@gmail.com; letienthinh@duytan.edu.vn
+Email: tienthinhle.vn@gmail.com
